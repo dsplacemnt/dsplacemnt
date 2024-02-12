@@ -1,3 +1,3 @@
 ## todo
 
-deploy - 2
+deploy
